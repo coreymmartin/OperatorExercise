@@ -1,0 +1,8 @@
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.exe.config
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.exe
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.pdb
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.exe
+C:\Users\corey\Desktop\csharp27\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.pdb
